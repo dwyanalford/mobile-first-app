@@ -16,6 +16,7 @@
 /build
 
 # misc
+/playground
 .DS_Store
 .env*
 
